@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+h1{
+    color: #f00;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Sacramento',cursive;
+    text-align: center;
+    background-color: mistyrose;
+}
+
+p{
+    background-color: mistyrose;
+}
+
+body{
+    background-image: url(../images/texture_00003.jpg);
+
+}
