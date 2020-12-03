@@ -1,0 +1,52 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, imput, div{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1,h2{
+    text-align: center;
+}
+
+img{
+    width: 70%;
+}
+
+h1{
+    margin:10px;
+    
+    background-color: rgba(200,200,100,30);
+}
+
+.article1 > h2{
+    margin: 10px;
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
+
+.article1 > p{
+    font-size: 30px;
+}
+
+.article2 > h2{
+    margin: 10px;
+    background-color: darkseagreen;
+}
+
+.article2 > p{
+    font-size: 30px;
+}
+
+.link > h2{
+    margin: 10px;
+    background-color: greenyellow;
+}
+
+.link > a{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
